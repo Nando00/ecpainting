@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Installation
 
 After downloading the file from Themeforest, You will find SuperProps.zip file. Then unzip the SuperProps.zip and run the following commands on SuperProps folder to get started with the project.
@@ -209,3 +210,6 @@ yarn export
 
 After running the above command go to `/landing` folder. You will find a `out` folder there. Drag
 and drop this `out` folder on netlify `sites` tab. Now after finishing the upload you are ready to go.
+=======
+# ecpainting
+>>>>>>> facd60b562731ddc4e32327276d8162aae3c6727
